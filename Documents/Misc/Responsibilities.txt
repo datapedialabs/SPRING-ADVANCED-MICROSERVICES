@@ -1,0 +1,14 @@
+1) Used Spring Boot Autoconfiguration for built-in classes.
+2) Added Spring Boot Starter dependencies in Maven Config file.
+3) Used Embedded Tomcat Server and actuator end points.
+4) Developed Model Layer using JpaRepository in Spring Data Jpa.
+5) Designed and Implemented Microservices using Spring Boot. Created a separate schema per every microservice in database design.
+6) Added both REST and Messaging End points to communicate microservices through HTTP and AMQP protocols using RabbitMQ Server.
+7) Implemented Cloud capabilities like Centralized Configuration, Load Balancing, Service-to-Service call using Fiegn, Service Registry and Discovery using Eureka in Spring Cloud.
+8)I Created near real time data pipeline that ingests data upon immediate availability.
+9)I Designed and developed ELT for near-real time reporting.
+10)I Designed and implemented Cloud solution that comprises of a centralized configration, load balance and B2B service-to-service calls (including micro-services).
+11)I Designed a Java based solution to generate ratings for near real time reporting through an enterprise messaging system with a throughput of 5K records per second.
+12)I Designed and implemented an event streaming consumer application to sink data with NoSQL(HBASE) storage.
+13)I Designed and implemented Orchestration for ELT solutions in big data environment.
+

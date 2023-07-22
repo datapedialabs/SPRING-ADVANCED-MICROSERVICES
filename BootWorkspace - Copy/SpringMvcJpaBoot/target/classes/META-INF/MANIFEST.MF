@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: gowthaman
+Build-Jdk: 11.0.2
+Implementation-Title: SpringMvcJpaBoot Maven Webapp
+Implementation-Version: 1
+Implementation-Vendor-Id: edu.aspire
+Implementation-Vendor: Pivotal Software, Inc.
+Created-By: Maven Integration for Eclipse
+

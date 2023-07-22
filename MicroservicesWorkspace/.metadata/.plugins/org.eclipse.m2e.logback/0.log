@@ -1,0 +1,163 @@
+2023-06-19 23:16:40,722 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-19 23:16:52,834 [Worker-8: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.aspire:PSSBook:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\BookingFlightTickets\pom.xml.
+2023-06-19 23:16:52,834 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.aspire:PSSBook:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\BookingFlightTickets\pom.xml.
+2023-06-19 23:16:57,947 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-19 23:16:58,046 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-19 23:16:58,077 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-19 23:16:58,084 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-19 23:16:58,100 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\BookingFlightTickets\src\test\resources
+2023-06-19 23:17:14,372 [Worker-17: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.aspire:PSSBook:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\BookingFlightTickets\pom.xml.
+2023-06-19 23:17:15,132 [Worker-17: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.aspire:FlightsWebSite:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\FlightsWebSite\pom.xml.
+2023-06-19 23:17:15,491 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-19 23:17:16,232 [Worker-17: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.aspire:CheckInCustomers:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\CheckInCustomers\pom.xml.
+2023-06-19 23:17:17,338 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.aspire:PSSBook:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\BookingFlightTickets\pom.xml.
+2023-06-19 23:17:32,425 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BookingFlightTickets/src/main/java
+2023-06-19 23:17:32,427 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BookingFlightTickets/src/main/resources
+2023-06-19 23:17:32,427 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BookingFlightTickets/src/main/resources
+2023-06-19 23:17:32,625 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BookingFlightTickets/src/test/java
+2023-06-19 23:17:33,504 [Worker-17: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.aspire:PSSBook:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\BookingFlightTickets\pom.xml.
+2023-06-19 23:17:36,332 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 13.00 sec, update config takes 4.00 sec 
+2023-06-19 23:17:36,352 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-19 23:17:37,134 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.aspire:PSSBook:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\BookingFlightTickets\pom.xml.
+2023-06-19 23:17:50,522 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BookingFlightTickets/src/main/java
+2023-06-19 23:17:50,523 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BookingFlightTickets/src/main/resources
+2023-06-19 23:17:50,523 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BookingFlightTickets/src/main/resources
+2023-06-19 23:17:50,526 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BookingFlightTickets/src/test/java
+2023-06-19 23:17:52,688 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 13.00 sec, update config takes 1.00 sec 
+2023-06-19 23:17:55,169 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.aspire:PSSBook:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\BookingFlightTickets\pom.xml.
+2023-06-19 23:17:56,305 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-19 23:17:56,307 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-19 23:17:56,325 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-19 23:17:56,331 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-19 23:17:56,331 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\BookingFlightTickets\src\test\resources
+2023-06-19 23:17:57,384 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.aspire:CheckInCustomers:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\CheckInCustomers\pom.xml.
+2023-06-19 23:18:25,875 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-19 23:18:25,886 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-19 23:18:26,038 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-19 23:18:26,048 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-19 23:18:26,050 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\CheckInCustomers\src\test\resources
+2023-06-19 23:18:27,578 [Worker-5: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.aspire:PSSBook:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\BookingFlightTickets\pom.xml.
+2023-06-19 23:18:28,015 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-19 23:18:29,082 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.aspire:CheckInCustomers:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\CheckInCustomers\pom.xml.
+2023-06-19 23:18:32,243 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CheckInCustomers/src/main/java
+2023-06-19 23:18:32,244 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CheckInCustomers/src/main/resources
+2023-06-19 23:18:32,244 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CheckInCustomers/src/main/resources
+2023-06-19 23:18:32,292 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CheckInCustomers/src/test/java
+2023-06-19 23:18:33,808 [Worker-15: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.aspire:PSSBook:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\BookingFlightTickets\pom.xml.
+2023-06-19 23:18:34,007 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 4.00 sec, update config takes 1.00 sec 
+2023-06-19 23:18:36,408 [Worker-15: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.aspire:FlightsWebSite:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\FlightsWebSite\pom.xml.
+2023-06-19 23:18:37,429 [Worker-15: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.aspire:CheckInCustomers:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\CheckInCustomers\pom.xml.
+2023-06-19 23:18:37,737 [Worker-15: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.aspire:FaresFlightTickets:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\FaresFlightTickets\pom.xml.
+2023-06-19 23:18:37,840 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-19 23:18:37,841 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-19 23:18:37,937 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-19 23:18:37,950 [Worker-15: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.kerasdigital:SearchFlightTickets:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\SearchFlightTickets\pom.xml.
+2023-06-19 23:18:40,372 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-19 23:18:40,373 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\CheckInCustomers\src\test\resources
+2023-06-19 23:19:00,681 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-19 23:19:07,962 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.aspire:FlightsWebSite:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\FlightsWebSite\pom.xml.
+2023-06-19 23:19:09,211 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FlightsWebSite/src/main/java
+2023-06-19 23:19:09,212 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FlightsWebSite/src/main/resources
+2023-06-19 23:19:09,212 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FlightsWebSite/src/main/resources
+2023-06-19 23:19:09,308 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FlightsWebSite/src/test/java
+2023-06-19 23:19:11,396 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 6.00 sec, refresh facades takes 1.00 sec, update config takes 1.00 sec 
+2023-06-19 23:19:11,411 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-19 23:19:11,971 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.aspire:FlightsWebSite:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\FlightsWebSite\pom.xml.
+2023-06-19 23:19:13,019 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FlightsWebSite/src/main/java
+2023-06-19 23:19:13,020 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FlightsWebSite/src/main/resources
+2023-06-19 23:19:13,021 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FlightsWebSite/src/main/resources
+2023-06-19 23:19:13,025 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FlightsWebSite/src/test/java
+2023-06-19 23:19:13,490 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-06-19 23:19:13,567 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-19 23:19:13,969 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.aspire:FlightsWebSite:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\FlightsWebSite\pom.xml.
+2023-06-19 23:19:14,804 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FlightsWebSite/src/main/java
+2023-06-19 23:19:14,804 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FlightsWebSite/src/main/resources
+2023-06-19 23:19:14,805 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FlightsWebSite/src/main/resources
+2023-06-19 23:19:14,806 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FlightsWebSite/src/test/java
+2023-06-19 23:19:15,369 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-06-19 23:19:15,419 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-19 23:19:15,636 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.aspire:FlightsWebSite:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\FlightsWebSite\pom.xml.
+2023-06-19 23:19:16,617 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FlightsWebSite/src/main/java
+2023-06-19 23:19:16,617 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FlightsWebSite/src/main/resources
+2023-06-19 23:19:16,617 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FlightsWebSite/src/main/resources
+2023-06-19 23:19:16,618 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FlightsWebSite/src/test/java
+2023-06-19 23:19:17,173 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-06-19 23:19:17,182 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-19 23:19:18,636 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.aspire:FaresFlightTickets:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\FaresFlightTickets\pom.xml.
+2023-06-19 23:19:20,061 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FaresFlightTickets/src/main/java
+2023-06-19 23:19:20,062 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FaresFlightTickets/src/main/resources
+2023-06-19 23:19:20,062 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FaresFlightTickets/src/main/resources
+2023-06-19 23:19:20,105 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FaresFlightTickets/src/test/java
+2023-06-19 23:19:26,362 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2023-06-19 23:19:26,375 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-19 23:19:26,964 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.aspire:FaresFlightTickets:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\FaresFlightTickets\pom.xml.
+2023-06-19 23:19:28,084 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FaresFlightTickets/src/main/java
+2023-06-19 23:19:28,085 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FaresFlightTickets/src/main/resources
+2023-06-19 23:19:28,086 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FaresFlightTickets/src/main/resources
+2023-06-19 23:19:28,087 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FaresFlightTickets/src/test/java
+2023-06-19 23:19:29,054 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-06-19 23:19:29,072 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-19 23:19:36,268 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.aspire:FaresFlightTickets:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\FaresFlightTickets\pom.xml.
+2023-06-19 23:19:37,491 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FaresFlightTickets/src/main/java
+2023-06-19 23:19:37,491 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FaresFlightTickets/src/main/resources
+2023-06-19 23:19:37,491 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FaresFlightTickets/src/main/resources
+2023-06-19 23:19:37,492 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FaresFlightTickets/src/test/java
+2023-06-19 23:19:38,074 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 8.00 sec, update config takes 0.00 sec 
+2023-06-19 23:19:38,081 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-19 23:19:42,533 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.aspire:FaresFlightTickets:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\FaresFlightTickets\pom.xml.
+2023-06-19 23:19:47,409 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FaresFlightTickets/src/main/java
+2023-06-19 23:19:47,410 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FaresFlightTickets/src/main/resources
+2023-06-19 23:19:47,410 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FaresFlightTickets/src/main/resources
+2023-06-19 23:19:47,411 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FaresFlightTickets/src/test/java
+2023-06-19 23:19:48,213 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 9.00 sec, update config takes 0.00 sec 
+2023-06-19 23:19:48,221 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-19 23:19:48,946 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.kerasdigital:SearchFlightTickets:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\SearchFlightTickets\pom.xml.
+2023-06-19 23:19:51,055 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SearchFlightTickets/src/main/java
+2023-06-19 23:19:51,056 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SearchFlightTickets/src/main/resources
+2023-06-19 23:19:51,056 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SearchFlightTickets/src/main/resources
+2023-06-19 23:19:51,118 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SearchFlightTickets/src/test/java
+2023-06-19 23:20:10,894 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 1.00 sec 
+2023-06-19 23:20:10,921 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-19 23:20:11,531 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.kerasdigital:SearchFlightTickets:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\SearchFlightTickets\pom.xml.
+2023-06-19 23:20:12,757 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SearchFlightTickets/src/main/java
+2023-06-19 23:20:12,758 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SearchFlightTickets/src/main/resources
+2023-06-19 23:20:12,761 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SearchFlightTickets/src/main/resources
+2023-06-19 23:20:12,763 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SearchFlightTickets/src/test/java
+2023-06-19 23:20:13,632 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-06-19 23:20:13,643 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-19 23:20:14,185 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.kerasdigital:SearchFlightTickets:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\SearchFlightTickets\pom.xml.
+2023-06-19 23:20:14,982 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SearchFlightTickets/src/main/java
+2023-06-19 23:20:14,982 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SearchFlightTickets/src/main/resources
+2023-06-19 23:20:14,982 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SearchFlightTickets/src/main/resources
+2023-06-19 23:20:14,982 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SearchFlightTickets/src/test/java
+2023-06-19 23:20:15,638 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-06-19 23:20:15,674 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-19 23:20:16,000 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.kerasdigital:SearchFlightTickets:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\SearchFlightTickets\pom.xml.
+2023-06-19 23:20:17,489 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SearchFlightTickets/src/main/java
+2023-06-19 23:20:17,490 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SearchFlightTickets/src/main/resources
+2023-06-19 23:20:17,490 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SearchFlightTickets/src/main/resources
+2023-06-19 23:20:17,491 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SearchFlightTickets/src/test/java
+2023-06-19 23:20:18,317 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-06-19 23:20:18,333 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-19 23:20:18,516 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.kerasdigital:SearchFlightTickets:1 @ I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\SearchFlightTickets\pom.xml.
+2023-06-19 23:20:19,242 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SearchFlightTickets/src/main/java
+2023-06-19 23:20:19,242 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SearchFlightTickets/src/main/resources
+2023-06-19 23:20:19,243 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SearchFlightTickets/src/main/resources
+2023-06-19 23:20:19,243 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SearchFlightTickets/src/test/java
+2023-06-19 23:20:19,898 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-06-19 23:20:22,087 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-19 23:20:22,089 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-19 23:20:22,195 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-19 23:20:22,243 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-19 23:20:22,245 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\FaresFlightTickets\src\test\resources
+2023-06-19 23:20:23,021 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-19 23:20:23,023 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-19 23:20:23,062 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2023-06-19 23:20:23,328 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-19 23:20:23,329 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\FlightsWebSite\src\test\resources
+2023-06-19 23:20:24,595 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-19 23:20:24,596 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-19 23:20:24,623 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-19 23:20:24,672 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-19 23:20:24,672 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory I:\SPRING ADVANCED MICROSERVICES\MicroservicesWorkspace\SearchFlightTickets\src\test\resources
+2023-07-12 15:50:22,131 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

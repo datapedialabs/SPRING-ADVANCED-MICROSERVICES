@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: kkgar
+Build-Jdk: 17.0.1
+Implementation-Title: SpringJdbcBoot
+Implementation-Version: 1
+Implementation-Vendor-Id: edu.aspire
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://www.java2aspire.com
+Created-By: Maven Integration for Eclipse
+

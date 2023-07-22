@@ -1,0 +1,107 @@
+CREATE USER 'fareuser'@'localhost' IDENTIFIED BY 'password';
+GRANT CREATE, ALTER, DROP, INSERT, UPDATE, DELETE, SELECT, REFERENCES, RELOAD on *.* TO 'fareuser'@'localhost' WITH GRANT OPTION;
+SHOW GRANTS FOR 'fareuser'@'localhost';
+
+CREATE TABLE fare (
+    fare_id BIGINT PRIMARY KEY,
+    currency VARCHAR(255),
+    fare VARCHAR(255)
+);
+
+
+CREATE TABLE inventory (
+    inv_id BIGINT PRIMARY KEY,
+    count INT NOT NULL
+);
+
+
+CREATE TABLE flight (
+    id BIGINT PRIMARY KEY,
+    destination VARCHAR(255),
+    flight_date VARCHAR(255),
+    flight_number VARCHAR(255),
+    origin VARCHAR(255),
+    fare_id BIGINT,
+    inv_id BIGINT,
+    FOREIGN KEY (fare_id) REFERENCES fare (fare_id),
+    FOREIGN KEY (inv_id) REFERENCES inventory (inv_id)
+);
+
+
+
+CREATE USER 'SEARCHUSER'@'localhost' IDENTIFIED BY 'password';
+GRANT CREATE, ALTER, DROP, INSERT, UPDATE, DELETE, SELECT, REFERENCES, RELOAD on *.* TO 'SEARCHUSER'@'localhost' WITH GRANT OPTION;
+SHOW GRANTS FOR 'SEARCHUSER'@'localhost';
+
+
+
+
+CREATE USER 'bookinguser'@'localhost' IDENTIFIED BY 'password';
+GRANT CREATE, ALTER, DROP, INSERT, UPDATE, DELETE, SELECT, REFERENCES, RELOAD on *.* TO 'bookinguser'@'localhost' WITH GRANT OPTION;
+SHOW GRANTS FOR 'bookinguser'@'localhost';
+
+
+
+CREATE TABLE booking_record (
+    id BIGINT PRIMARY KEY,
+    booking_date TIMESTAMP,
+    destination VARCHAR(255),
+    fare VARCHAR(255),
+    flight_date VARCHAR(255),
+    flight_number VARCHAR(255),
+    origin VARCHAR(255),
+    status VARCHAR(255)
+);
+
+
+
+CREATE USER 'checkinuser'@'localhost' IDENTIFIED BY 'password';
+GRANT CREATE, ALTER, DROP, INSERT, UPDATE, DELETE, SELECT, REFERENCES, RELOAD on *.* TO 'checkinuser'@'localhost' WITH GRANT OPTION;
+SHOW GRANTS FOR 'checkinuser'@'localhost';
+
+CREATE TABLE check_in_record (
+    id BIGINT PRIMARY KEY,
+    booking_id BIGINT NOT NULL,
+    check_in_time TIMESTAMP,
+    first_name VARCHAR(255),
+    flight_date VARCHAR(255),
+    flight_number VARCHAR(255),
+    last_name VARCHAR(255),
+    seat_number VARCHAR(255)
+);
+
+
+
+
+create table fare (id int, primary key, fare varchar2(255), flight_date varchar2(255), flight_number varchar2(255));
+
+CREATE TABLE fare (
+    id INT PRIMARY KEY,
+    fare VARCHAR(255),
+    flight_date VARCHAR(255),
+    flight_number VARCHAR(255)
+);
+
+
+create table fare (
+fare_id number(19) primary key, 
+currency varchar2(255), 
+fare varchar2(255));
+
+create table fare (
+id number(19) primary key, 
+fare varchar2(255), 
+flight_date varchar2(255), 
+flight_number varchar2(255));
+
+
+
+mysql -u USERNAME -pPASSWORD -h HOSTNAMEORIP DATABASENAME
+
+mysql -u SEARCHUSER -p password -h localhost -p 3306 
+
+mysql -u checkinuser -P 3306 -h localhost -p
+
+
+
+create table inventory (id number(19) primary key, available number(10) not null, flight_date varchar2(255), flight_number varchar2(255));

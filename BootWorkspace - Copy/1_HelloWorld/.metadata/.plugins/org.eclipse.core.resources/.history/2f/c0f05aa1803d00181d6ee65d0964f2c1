@@ -1,0 +1,10 @@
+package com.example.demo;
+
+@RestController
+@EnableAutoConfiguration
+public class Example {
+	
+@RequestMapping
+
+
+}

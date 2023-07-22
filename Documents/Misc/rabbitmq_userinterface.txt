@@ -1,0 +1,15 @@
+D:\Program Files\RabbitMQ Server\rabbitmq_server-3.6.9\sbin>rabbitmq-plugins enable rabbitmq_management
+
+http://localhost:15672
+username: guest
+password: guest
+
+
+
+rabbitmqctl shutdown
+rabbitmqctl stop
+rabbitmq-service.bat remove
+rabbitmq-service.bat install
+rabbitmq-service.bat start
+rabbitmq-plugins enable rabbitmq_management
+rabbitmq-plugins enable rabbitmq_shovel

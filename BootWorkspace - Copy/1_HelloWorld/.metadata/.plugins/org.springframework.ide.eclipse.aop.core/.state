@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="SearchFlightTickets"/>
+<aop-project name="SpringBootConfig2DataSource"/>
+<aop-project name="SpringJdbcBoot"/>
+<aop-project name="SpringHibernateBoot"/>
+<aop-project name="SpringJdbcBootAutoConfiguration"/>
+<aop-project name="HelloWorld"/>
+<aop-project name="ConfigServer"/>
+<aop-project name="FlightsWebSite"/>
+<aop-project name="FormProcessingBoot"/>
+<aop-project name="SpringProgTxsBoot"/>
+<aop-project name="CheckInCustomers"/>
+<aop-project name="FaresFlightTickets"/>
+<aop-project name="SpringJdbcMaven"/>
+<aop-project name="FaresFlightTickets2"/>
+<aop-project name="BookingFlightTickets"/>
+<aop-project name="SpringMVCBoot"/>
+<aop-project name="EurekaServer"/>
+<aop-project name="SearchFlightTickets2"/>
+<aop-project name="SpringJPAOracle"/>
+<aop-project name="SpringDataJpa"/>
+<aop-project name="SpringJPA"/>
+<aop-project name="SpringMvcJpaBoot"/>
+</aop-reference-model>
